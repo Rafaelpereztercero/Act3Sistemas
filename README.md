@@ -1,15 +1,15 @@
 # Act3Sistemas
 POWERSHELL BASICS
 ### 1. Use <code>Get-Help</code> to find out more information about 5 cmdlets.
-![image](https://user-images.githubusercontent.com/91564342/160673285-3042dc42-f3e8-4fb1-b80f-b7dd6375679c.png)
+![image](https://user-images.githubusercontent.com/91564342/160679113-968cb930-1f64-40da-8ed3-30895e111d9b.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160673311-3f782886-7322-46fc-b307-bd8e2b201434.png)
+![image](https://user-images.githubusercontent.com/91564342/160679191-8f369146-cab8-49d0-9d0b-a64e763875f2.png)
 
 ![image](https://user-images.githubusercontent.com/91564342/160678477-3793c039-1d5d-4449-9d94-7fb2ab57ef28.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160673686-5d09b999-1200-4865-a646-0f6fcbd60252.png)
+![image](https://user-images.githubusercontent.com/91564342/160679304-f683deac-edf7-4a49-ae4b-550ef0358f2b.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160673736-457f5ca9-f1b0-4425-9bce-568c38cf8dc3.png)
+![image](https://user-images.githubusercontent.com/91564342/160679396-0ce4dc16-70cc-459d-a714-65c017bb3950.png)
 
 ### 2. Use <code>Get-Help</code> with the <code>–Example</code> parameter for the 5 cmdlets you discovered more about in task 1.
 ![image](https://user-images.githubusercontent.com/91564342/160673909-d03d8331-0d0e-48d0-aaef-9ed46b0a8eac.png)
