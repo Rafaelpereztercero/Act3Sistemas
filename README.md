@@ -37,6 +37,7 @@ POWERSHELL BASICS
 ![image](https://user-images.githubusercontent.com/91564342/160676076-81685080-b288-4528-9984-04f29a4302bf.png)
 
 ### 7. Format the data returned by a cmdlet into a list
+![image](https://user-images.githubusercontent.com/91564342/160678682-ee7b89fb-4acd-4c17-aabd-532a1cf463f9.png)
 
 ### 8. Pipe <code>Get-Command</code> into <code>Out-GridView</code>
 
@@ -44,4 +45,4 @@ POWERSHELL BASICS
 
 ### 10. Find the official PowerShell documentation library from Microsoft
 ![image](https://user-images.githubusercontent.com/91564342/160676417-c9594411-98e6-4e16-9133-c672a03ce4bb.png)
-![image](https://user-images.githubusercontent.com/91564342/160676421-bfde6dac-205f-4170-893a-9eb33c884e3d.png)
+
