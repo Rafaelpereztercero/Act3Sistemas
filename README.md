@@ -5,7 +5,7 @@ POWERSHELL BASICS
 
 ![image](https://user-images.githubusercontent.com/91564342/160673311-3f782886-7322-46fc-b307-bd8e2b201434.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160673345-b928c159-879a-468e-8c5d-d02cf075fcb5.png)
+![image](https://user-images.githubusercontent.com/91564342/160678477-3793c039-1d5d-4449-9d94-7fb2ab57ef28.png)
 
 ![image](https://user-images.githubusercontent.com/91564342/160673686-5d09b999-1200-4865-a646-0f6fcbd60252.png)
 
