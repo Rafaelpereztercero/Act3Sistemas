@@ -11,7 +11,7 @@ POWERSHELL BASICS
 
 ![image](https://user-images.githubusercontent.com/91564342/160673736-457f5ca9-f1b0-4425-9bce-568c38cf8dc3.png)
 
-### 2. Use “Get-Help” with the “–Example” parameter for the 5 cmdlets you discovered more about in task 1.
+### 2. Use <code>Get-Help</code> with the <code>–Example</code parameter for the 5 cmdlets you discovered more about in task 1.
 ![image](https://user-images.githubusercontent.com/91564342/160673909-d03d8331-0d0e-48d0-aaef-9ed46b0a8eac.png)
 
 ![image](https://user-images.githubusercontent.com/91564342/160673933-95dbc04c-59f3-4b77-8690-c6a6605c9892.png)
@@ -30,7 +30,7 @@ POWERSHELL BASICS
 ### 4. Populate the text file you created in task 3 with all three datatypes we’ve covered: “Boolean”, “String” and “Int”
 ![image](https://user-images.githubusercontent.com/91564342/160675842-8291068c-5998-4866-9d79-75ed54e14315.png)
 
-### 5. Read from the text file and use “Get-Member” to find the datatype returned
+### 5. Read from the text file and use <code>Get-Member</code> to find the datatype returned
 ![image](https://user-images.githubusercontent.com/91564342/160675959-dfef7d8c-5bb6-42ed-a9e3-eaad6ca35376.png)
 
 ### 6. Overwrite all data within the text file that you created in task 3.
@@ -38,7 +38,7 @@ POWERSHELL BASICS
 
 ### 7. Format the data returned by a cmdlet into a list
 
-### 8. Pipe “Get-Command” into “Out-GridView”
+### 8. Pipe <code>Get-Command</code> into <code>Out-GridView</code>
 
 ### 9. Pipe the 5 cmdlets you discovered in task 1 into “Out-GridView”
 
