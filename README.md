@@ -11,7 +11,7 @@ POWERSHELL BASICS
 
 ![image](https://user-images.githubusercontent.com/91564342/160673736-457f5ca9-f1b0-4425-9bce-568c38cf8dc3.png)
 
-### 2. Use <code>Get-Help</code> with the <code>–Example</code parameter for the 5 cmdlets you discovered more about in task 1.
+### 2. Use <code>Get-Help</code> with the <code>–Example</code> parameter for the 5 cmdlets you discovered more about in task 1.
 ![image](https://user-images.githubusercontent.com/91564342/160673909-d03d8331-0d0e-48d0-aaef-9ed46b0a8eac.png)
 
 ![image](https://user-images.githubusercontent.com/91564342/160673933-95dbc04c-59f3-4b77-8690-c6a6605c9892.png)
