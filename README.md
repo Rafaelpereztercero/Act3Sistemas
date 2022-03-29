@@ -40,8 +40,14 @@ POWERSHELL BASICS
 ![image](https://user-images.githubusercontent.com/91564342/160678682-ee7b89fb-4acd-4c17-aabd-532a1cf463f9.png)
 
 ### 8. Pipe <code>Get-Command</code> into <code>Out-GridView</code>
+![image](https://user-images.githubusercontent.com/91564342/160681086-6a35013b-2dd5-4f07-931b-ed096d729013.png)
 
 ### 9. Pipe the 5 cmdlets you discovered in task 1 into “Out-GridView”
+![image](https://user-images.githubusercontent.com/91564342/160681279-86a3a546-e826-4433-a449-872ad0499264.png)
+![image](https://user-images.githubusercontent.com/91564342/160681342-7fc975ac-7e55-4cfe-a6ab-f76292de08e3.png)
+![image](https://user-images.githubusercontent.com/91564342/160681417-2bfae376-581b-4f24-ba4b-dfc5164ca779.png)
+![image](https://user-images.githubusercontent.com/91564342/160681508-ab01fb64-c11e-4c25-b007-76ed7be00f5f.png)
+![image](https://user-images.githubusercontent.com/91564342/160681590-870e6b88-4236-4cb4-afd2-dee43b26e74f.png)
 
 ### 10. Find the official PowerShell documentation library from Microsoft
 ![image](https://user-images.githubusercontent.com/91564342/160676417-c9594411-98e6-4e16-9133-c672a03ce4bb.png)
