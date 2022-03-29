@@ -12,15 +12,15 @@ POWERSHELL BASICS
 ![image](https://user-images.githubusercontent.com/91564342/160679396-0ce4dc16-70cc-459d-a714-65c017bb3950.png)
 
 ### 2. Use <code>Get-Help</code> with the <code>–Example</code> parameter for the 5 cmdlets you discovered more about in task 1.
-![image](https://user-images.githubusercontent.com/91564342/160673909-d03d8331-0d0e-48d0-aaef-9ed46b0a8eac.png)
+![image](https://user-images.githubusercontent.com/91564342/160680067-059513db-4a91-4606-9513-c22af1dd6734.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160673933-95dbc04c-59f3-4b77-8690-c6a6605c9892.png)
+![image](https://user-images.githubusercontent.com/91564342/160680188-7f34fc2e-9321-4f31-a832-03906f7c3ebc.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160673960-5b0952fb-2541-4f30-8d6c-f30f349a4897.png)
+![image](https://user-images.githubusercontent.com/91564342/160680288-d2dc88f7-8067-4cd6-b29f-9b02ea92f331.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160674028-640769d8-515f-49d9-9eea-81e767da6cc6.png)
+![image](https://user-images.githubusercontent.com/91564342/160680382-87d5d229-9fe9-4618-8e69-9036f8fac71f.png)
 
-![image](https://user-images.githubusercontent.com/91564342/160674050-0a53801e-5c60-4cbd-9ef1-38b0aed4886d.png)
+![image](https://user-images.githubusercontent.com/91564342/160680478-eefaa36c-976f-4e0d-8b5b-f1e8300bf1a4.png)
 
 ### 3. Create a new text file named “TestFile.txt” under C:\ Maximo\PowerShell\Workshop1\%USERNAME%
 ![image](https://user-images.githubusercontent.com/91564342/160674165-8e5aaaa4-a8db-40f9-bc91-8ba6dd682fe0.png)
